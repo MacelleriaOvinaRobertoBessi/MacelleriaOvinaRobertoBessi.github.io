@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="agnello2.jpeg">
+  <img src="angello2.jpeg">
 </p>
 ## Orari causa COVID-19
 
