@@ -7,9 +7,9 @@
   </div>
 </div>
 
-<img src="agnello1.jpeg">
-<img src="angello2.jpeg">
-
+<p align="center">
+<img src="agnello1.jpeg" width="220" height="200">
+<img src="angello2.jpeg" width="300" height="200">
 
 ## Orari causa COVID-19
 
