@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="agnello1.jpeg">
+  <img src="agnello1.jpeg" width="200" height="40">
 </p>
 
 <p align="center">
-  <img src="angello2.jpeg">
+  <img src="angello2.jpeg" width="200" height="40">
 </p>
 ## Orari causa COVID-19
 
