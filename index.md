@@ -1,5 +1,3 @@
-<center>
-
 ## Orari durante periodo d'allerta 
 
 - Lunedì: 8:30/12:00
@@ -12,5 +10,3 @@
 ## **Consegne** durante periodo d'allerta per COVID-19
 
 Oltre ad essere aperti tutti le mattine, effettuiamo consegne in tutta Genova. Per ordinare, basta chiamare il numero: 010541831
-
-</center>
