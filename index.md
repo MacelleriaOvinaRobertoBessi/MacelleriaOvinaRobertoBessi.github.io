@@ -1,23 +1,12 @@
-## Welcome to GitHub Pages
+## Orari durante periodo d'allerta 
 
-You can use the [editor on GitHub](https://github.com/MacelleriaOvinaRobertoBessi/MacelleriaOvinaRobertoBessi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Lunedì: 8:30/12:00
+- Martedì: 8:30/12:00
+- Mercoledì: 8:30/12:00
+- Giovedì: 8:30/12:00
+- Venerdì: 8:30/12:00
+- Sabato: 8:30/12:00
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **Consegne** durante periodo d'allerta per COVID-19
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+Oltre ad essere aperti tutti le mattine, effettuiamo consegne in tutta Genova. Per ordinare, basta chiamare il numero: 010541831
