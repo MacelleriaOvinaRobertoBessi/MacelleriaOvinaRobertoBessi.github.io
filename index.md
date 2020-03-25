@@ -14,5 +14,5 @@
 - Sabato: 8:30/12:00
 
 ## **Consegne** 
-In questi momenti difficili è opportuno rispetare le regole per il bene di tutti! 
+In questi momenti difficili è opportuno rispettare le regole per il bene di tutti! 
 Oltre ad essere aperti tutti le mattine, effettuiamo consegne in tutta Genova. Per ordinare, basta chiamare il numero: 010541831
