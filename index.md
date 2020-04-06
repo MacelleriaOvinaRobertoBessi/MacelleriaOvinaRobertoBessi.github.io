@@ -6,12 +6,12 @@
 </p>
 
 ## Orari causa COVID-19
-- Lunedì: 8:30/12:00
-- Martedì: 8:30/12:00
-- Mercoledì: 8:30/12:00
-- Giovedì: 8:30/12:00
-- Venerdì: 8:30/12:00
-- Sabato: 8:30/12:00
+- Lunedì: 8:30 - 12:00, 14:30 - 18:00
+- Martedì: 8:30 - 12:00, 14:30 - 18:00
+- Mercoledì: 8:30 - 12:00, 14:30 - 18:00
+- Giovedì: 8:30 - 12:00, 14:30 - 18:00
+- Venerdì: 8:30 - 12:00, 14:30 - 18:00
+- Sabato: 8:30 - 12:00, 14:30 - 18:00
 
 ## Consegne **gratuite**
 In questi momenti difficili è opportuno rispettare le regole per il bene di tutti! 
