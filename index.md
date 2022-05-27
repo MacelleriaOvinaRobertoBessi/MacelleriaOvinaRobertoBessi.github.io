@@ -18,3 +18,5 @@ Grazie
 - Giovedì: 8:30 - 12:00, 14:30 - 18:00
 - Venerdì: 8:30 - 12:00, 14:30 - 18:00
 - Sabato: 8:30 - 12:00, 14:30 - 18:00
+
+Sono accettate tutte le carte di credito e bancomat.
