@@ -5,7 +5,13 @@
 <img src="angello2.jpeg" width="300" height="200">
 </p>
 
-## Orari causa COVID-19
+Come sempre, da più di 38 anni, chiudere per la stagione estiva mi dispiace sempre.
+Ma purtroppo il mio è un lavoro che si sviluppa prettamente dai primi di settembre fino alla fine di maggio, almeno qui a Genova.
+Per questo motivo volevo ricordare a tutti i nostri clienti che saremo chiusi dal primo giugno fino a dopo Ferragosto.
+Vi ringraziamo per la vostra fiducia.
+Grazie
+  
+## Orari
 - Lunedì: 8:30 - 12:00, 14:30 - 18:00
 - Martedì: 8:30 - 12:00, 14:30 - 18:00
 - Mercoledì: 8:30 - 12:00, 14:30 - 18:00
@@ -13,8 +19,6 @@
 - Venerdì: 8:30 - 12:00, 14:30 - 18:00
 - Sabato: 8:30 - 12:00, 14:30 - 18:00
 
-## Consegne **gratuite**
-In questi momenti difficili è opportuno rispettare le regole per il bene di tutti! 
-Oltre ad essere aperti tutti le mattine, effettuiamo consegne in tutta Genova. Per ordinare, basta chiamare il numero: 010541831
+
 
 Non si accettano ticket.
